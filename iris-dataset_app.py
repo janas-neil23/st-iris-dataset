@@ -10,13 +10,13 @@
 # In[10]:
 
 
-#import sklearn as sl
+import sklearn
 
 
 # In[11]:
 
 
-#from sklearn.datasets import load_iris
+from sklearn.datasets import load_iris
 
 
 # In[12]:
