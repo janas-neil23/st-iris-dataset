@@ -6,8 +6,6 @@
 
 #get_ipython().system('pip install scikit-learn')
 
-!pip install sklearn
-
 # In[10]:
 
 
