@@ -4,8 +4,9 @@
 # In[7]:
 
 
-get_ipython().system('pip install scikit-learn')
+#get_ipython().system('pip install scikit-learn')
 
+!pip install sklearn
 
 # In[10]:
 
