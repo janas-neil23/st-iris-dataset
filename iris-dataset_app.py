@@ -10,7 +10,7 @@
 # In[10]:
 
 
-import sklearn
+import sklearn as sl
 
 
 # In[11]:
